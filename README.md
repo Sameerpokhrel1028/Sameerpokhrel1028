@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&center=true&vCenter=true&width=850&lines=यद्+भावं+तद्+भवति;Yat+Bhaavam,+Tat+Bhavati;You+become+what+you+believe." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1200&center=true&vCenter=true&width=900&lines=यद्+भावं+तद्+भवति;Yat+Bhaavam,+Tat+Bhavati;You+become+what+you+believe." alt="Typing SVG" />
+</p>
+
+<p align="center">
+   Exploring genome variation and evolutionary dynamics  
+  <br>
+   Translating genetics into resilient crop varieties  
+  <br>
+  Pangenome graphs • GWAS • Variant density • Introgression mapping
 </p>
 
 <p align="center">
