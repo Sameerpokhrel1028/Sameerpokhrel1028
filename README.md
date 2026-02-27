@@ -4,15 +4,15 @@
 
 <br><br>
 
-<h2 align="center">🧬 Plant Genetics & Genomics</h2>
+<h2 align="center"> Plant Genetics & Genomics</h2>
 
 <br>
 
-<h2 align="center">🌱 Quantitative Genetics & Plant Breeding</h2>
+<h2 align="center"> Quantitative Genetics & Plant Breeding</h2>
 
 <br>
 
-<h2 align="center">📊 Pangenomes • Variant Graphs • GWAS • Introgression Mapping</h2>
+<h2 align="center"> Pangenomes • Variant Graphs • GWAS • Introgression Mapping</h2>
 
 <br><br>
 
