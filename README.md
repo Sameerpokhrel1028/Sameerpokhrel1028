@@ -1,14 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1200&center=true&vCenter=true&width=900&lines=यद्+भावं+तद्+भवति;Yat+Bhaavam,+Tat+Bhavati;You+become+what+you+believe." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&pause=1500&center=true&vCenter=true&width=1000&lines=यद्+भावं+तद्+भवति;Yat+Bhaavam,+Tat+Bhavati;You+become+what+you+believe." alt="Typing SVG" />
 </p>
 
-<p align="center">
-   Exploring genome variation and evolutionary dynamics  
-  <br>
-   Translating genetics into resilient crop varieties  
-  <br>
-  Pangenome graphs • GWAS • Variant density • Introgression mapping
-</p>
+<br><br>
+
+<h2 align="center">🧬 Plant Genetics & Genomics</h2>
+
+<br>
+
+<h2 align="center">🌱 Quantitative Genetics & Plant Breeding</h2>
+
+<br>
+
+<h2 align="center">📊 Pangenomes • Variant Graphs • GWAS • Introgression Mapping</h2>
+
+<br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-pokhrel/">
